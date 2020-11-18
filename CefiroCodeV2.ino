@@ -1,5 +1,5 @@
 // For: Humanos3D-Enable Medellin
-// By: Mauricio Cano June 2020
+// By: Mauricio Cano Bedoya June 2020
 
 // Control Céfiro V2
 // Este código es para el control básico del servomotor con
