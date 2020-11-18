@@ -1,7 +1,8 @@
 /*
  Control Céfiro V1
+ By: Mauricio Cano Bedoya 
  For: Humanos3D-Enable Medellin
- By: Mauricio Cano Bedoya June 2020 
+ June 2020 
 
  Este código es para el control básico del servomotor con
  un botón táctil para el dispositivo "Céfiro"
